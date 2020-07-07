@@ -1,3 +1,5 @@
 print('====== DESAFIO 01 ======')
-name = str(input('Qual e o seu nome? '))
-print('Ola '+ name + '! Prazer em te conhecer!' )
+dia = input('Dia = ')
+mes = input('Mes = ')
+ano = input('Ano = ')
+print('Voce nasceu no dia'+ dia + ' de ', mes,  ' de ' + ano + ' . Correto?' )

@@ -1,5 +1,4 @@
 print('====== DESAFIO 02 ======')
-dia = input('Dia = ')
-mes = input('Mes = ')
-ano = input('Ano = ')
-print('Voce nasceu no dia'+ dia + ' de ', mes,  ' de ' + ano + ' . Correto?' )
+n1 = input('Digite o primeiro numero = ')
+n2 = input('Digite o segundo numero = ')
+print('A soma entre {}  e {} e {}'.format(n1, n2, n1 + n2))
