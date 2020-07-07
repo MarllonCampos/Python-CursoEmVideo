@@ -1,6 +1,7 @@
 {
-    "python.pythonPath": "/usr/bin/python3.8",
-    "python.linting.pylintEnabled": true,
+    "python.pythonPath": "/home/marllon/.local/share/virtualenvs/Python-CEV-OO1rweWg/bin/python",
+    "python.linting.pylintEnabled": false,
     "python.linting.enabled": true,
-    "files.autoGuessEncoding":true
+    "files.autoGuessEncoding": true,
+    "python.linting.flake8Enabled": true
 }

@@ -1,0 +1,5 @@
+# import { lib } importa todos os métodos desta biblioteca
+# exemplo import math importará {ceil,floor,trunc,pow,sqrt,factorial}
+# from { lib } import { método } importara de dentro de uma biblioteca
+#   importará apenas o metódo especificado
+# exemplo from math import floor importará o metodo floor da biblioteca math

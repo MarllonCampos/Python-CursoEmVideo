@@ -1,4 +1,4 @@
-#!/home/marllon/Documentos/Cursos/Python-CEV/venv/bin/python
+#!/home/marllon/Documentos/Cursos/Python-CEV/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
