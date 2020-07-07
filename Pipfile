@@ -10,6 +10,10 @@ autopep8 = "*"
 [packages]
 pipfile = "*"
 emoji = "*"
+playsound = "*"
+gobject = "*"
+vext = "*"
+"vext.gi" = "*"
 
 [requires]
 python_version = "3.8"
