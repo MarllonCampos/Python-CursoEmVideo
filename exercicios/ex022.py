@@ -19,7 +19,4 @@ print(len(nome.strip().split()[0]))
 print('\n')
 
 
-
-
-
 print('{:=^26}\n'.format(' Desafio 022 '))

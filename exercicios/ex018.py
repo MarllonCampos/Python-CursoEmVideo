@@ -12,7 +12,7 @@ tangente = tan(radians(ang))
 
 print('\nO seno do angulo {:.2f} é {:.2f}'.format(ang, seno))
 print('O cosseno do angulo {:.2f} é {:.2f}'.format(ang, cosseno))
-print('A tangente do angulo {:.2f} é {:.2f}'.format(ang,tangente))
+print('A tangente do angulo {:.2f} é {:.2f}'.format(ang, tangente))
 print('\n')
 
 print('{:=^26}'.format(' Desafio 018 '))
