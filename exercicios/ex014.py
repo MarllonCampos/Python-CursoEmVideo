@@ -1,5 +1,5 @@
 print('====== DESAFIO 14 ======')
-tempC = float(input('Informe a temperatura em ºC: '))
+tempC = float(input('Informe a temperatura em ?C: '))
 tempF = (tempC * (9/5)) + 32
 
-print('A temperatura de {}ºC corresponde a {}ºF'.format(tempC, tempF))
+print('A temperatura de {}?C corresponde a {}?F'.format(tempC, tempF))

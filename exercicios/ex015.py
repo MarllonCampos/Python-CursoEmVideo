@@ -1,4 +1,3 @@
-import math as mt
 print('====== DESAFIO 15 ======')
 dias = int(input('Quantos dias o carro foi alugado: '))
 km = float(input('Quantos km foram rodados: '))

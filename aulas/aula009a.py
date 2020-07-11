@@ -29,7 +29,8 @@ print('\n')
 
 
 #Se o método find não encontrar a string passada significa que não existe na seguinte string
-print('Apareceu a primeira ocorrencia de "Android" na posição {}'.format(frase.find('Android')))
+print("""Apareceu a primeira ocorrencia de "Android" na posição {}"""
+.format(frase.find('Android')))
 
 
 #Operador in 'String' in variavel
