@@ -6,7 +6,7 @@
 
 
     - variavel[ começa : termina ]
-        - ![](./Images/frase.png)` frase = "CursoEmVideo Python" print(frase[9:14]) começa na posição 9('d')`<br>`e vai até a 13('') Resultado 'deo P' ` 
+        - <img src="./Images/frase.png" width="250" height="30" />` frase = "CursoEmVideo Python" print(frase[9:14]) começa na posição 9('d')`<br>`e vai até a 13('') Resultado 'deo P' ` 
         - Este tipo de manipulação é "parecido com o metodo FOR" tendo em vista "Onde vai começar : Onde termina : O passo(pulando de x em x )"
     - len(variavel)
         - ` frase = "CursoEmVideo Python" print(len(frase)) Este método retorna a quantidade em números inteiros de caracteres contido nesta string. Retornando então neste caso 19` 
