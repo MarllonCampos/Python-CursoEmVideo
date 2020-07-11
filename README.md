@@ -22,5 +22,5 @@
         -`>= Operador maior igual, se o numero da esquerda do operador for maior ou igual que o da direita sera retornado True, senão sera retornado False `
         - `<= Operador menor igual, se o numero da esquerda do operador for menor ou igual que o da direita sera retornado True, senão sera retornado False `
         -`!= Operador de diferença, se a variavel do lado esquerdo for diferente do lado direito sera retornado True, senão sera retornado False`
-        - ``
+        - `== Operador de igualdade, se a variavel do lado esquerdo for igual do lado direito sera retornado True, senão sera retornado False`
         
