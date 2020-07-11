@@ -9,7 +9,7 @@ if num == aleat:
     print('Parabéns você acertou o número')
 else:
     print('Você errou o número tente novamente!')
+    print('O número era: {}'.format(aleat))
 
-print('O número era: {}'.format(aleat))
 
-print('{:=^26}\n'.format(' Desafio 028 '))
+print('\n{:=^26}\n'.format(' Desafio 028 '))
