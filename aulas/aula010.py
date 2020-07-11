@@ -9,5 +9,3 @@ else:
     print('Carro velho')
 
 print('FIM')
-
-
