@@ -1,7 +1,6 @@
 print('{:=^26}\n'.format(' Desafio 025 '))
 
-nome = str(input('Digite seu nome completo: '))
-nome = nome.strip()
+nome = str(input('Digite seu nome completo: ')).strip()
 silva = 'SILVA' in nome.upper()
 
 

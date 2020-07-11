@@ -1,6 +1,5 @@
 print('{:=^26}\n'.format(' Desafio 027 '))
-nome = str(input('Insira teu nome: '))
-nome = nome.strip().split()
+nome = str(input('Insira teu nome: ')).strip().split()
 
 
 print('Seu primeiro nome é: {}\nE seu ultimo nome é: {}'.format(

@@ -1,8 +1,8 @@
 print('{:=^26}\n'.format(' Desafio 024 '))
 
-cidade = str(input('Insira o nome de uma cidade: '))
+cidade = str(input('Insira o nome de uma cidade: ')).strip()
 
-santo = cidade.upper().strip().split()
+santo = cidade.upper().split()
 santo = santo[0]
 
 

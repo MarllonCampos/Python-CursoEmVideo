@@ -1,22 +1,17 @@
 print('{:=^26}\n'.format(' Desafio 022 '))
 
-nome = str(input('Digite o seu nome completo: '))
-
-print('\n')
+nome = str(input('Digite o seu nome completo: ')).strip()
 
 
 print(nome.upper())
-print('\n')
 
 print(nome.lower())
-print('\n')
 
-print(len(''.join(nome.split())))
-print('\n')
+print('Seu nome ao todo tem {} letras'.format(len(''.join(nome.split()))))
 
 
-print(len(nome.strip().split()[0]))
-print('\n')
+print('O seu primeiro nome é {} e ele tem {} letras'.format(
+    nome.split()[0], len(nome.split()[0])))
 
 
-print('{:=^26}\n'.format(' Desafio 022 '))
+print('\n{:=^26}\n'.format(' Desafio 022 '))
